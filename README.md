@@ -1,7 +1,7 @@
 Scientific Articles Database Management System
 =============================================
 
-A web-based database system for managing scientific articles, built with PHP, MySQL, and Bootstrap. This project allows users to create, read, update, and delete (CRUD) scientific publications through a user-friendly interface.
+A web-based database system for managing scientific articles, built with PHP, MySQL, and Bootstrap. This project allows users to create, read, update, and delete (CRUD) scientific publications through a user-friendly interface. Initially a project written during undergraduate purely with PHP, MySQL and CSS, I recently updated it using DeepSeek with dynamic jQuery fields, PDO secure coding and Bootsrap styling.
 
 Features:
 ---------
@@ -10,8 +10,6 @@ Features:
 - Search by DOI: Quickly find articles using DOI
 - Multi-Table Database: Properly structured with relationships
 - Responsive Design: Works on desktop and mobile (Bootstrap)
-- Data Validation: Both client-side and server-side
-- Backup & Import: Export and import database data
 
 Technologies Used:
 -----------------
@@ -56,7 +54,6 @@ Usage:
 
 Notes:
 ------
-- Backup before major changes
 - DOI is unique and cannot be changed
 - Use “Other” in dropdowns for new countries or journals
 
@@ -73,7 +70,6 @@ Learning Outcomes:
 - Database design and normalization
 - CRUD operations
 - Bootstrap & jQuery
-- Secure coding with PDO
 
 License:
 --------
